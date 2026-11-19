@@ -1,0 +1,14 @@
+,Medicine,Category,Price,Sales,Date,City
+0,Paracetamol,Analgesic,25.0,120,05-01-2026,Pune
+1,Amoxicillin,Antibiotic,65.0,80,08-01-2026,Mumbai
+3,Azithromycin,Antibiotic,90.0,60,15-01-2026,Nashik
+4,Ibuprofen,Analgesic,45.0,100,20-01-2026,Pune
+5,Omeprazole,Gastric,55.0,110,02-02-2026,Mumbai
+6,Paracetamol,Analgesic,25.0,180,05-02-2026,Nashik
+7,Cetirizine,Antihistamine,35.0,130,10-02-2026,Pune
+8,Amoxicillin,Antibiotic,65.0,95,15-02-2026,Mumbai
+10,Ibuprofen,Analgesic,45.0,140,01-03-2026,Mumbai
+11,Azithromycin,Antibiotic,90.0,85,05-03-2026,Pune
+13,Omeprazole,Gastric,55.0,125,15-03-2026,Pune
+14,Cetirizine,Antihistamine,35.0,160,20-03-2026,Mumbai
+15,Cetirizine,Antihistamine,35.0,156,20-03-2026,Mumbai
